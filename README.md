@@ -1,6 +1,6 @@
 # backstage
 
-> manage system
+> A Vue.js project
 
 ## Build Setup
 
